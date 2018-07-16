@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TanamanQu</string>
+    <string name="title_activity_detail_tanaman">DetailTanamanActivity</string>
+</resources>
